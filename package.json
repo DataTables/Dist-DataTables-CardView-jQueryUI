@@ -1,0 +1,36 @@
+{
+    "name": "datatables.net-cardview-jqui",
+    "description": "CardView for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
+    "main": "js/cardView.jqueryui.js",
+    "module": "js/cardView.jqueryui.mjs",
+    "style": "css/cardView.jqueryui.css",
+    "types": "./types/cardView.jqueryui.d.ts",
+    "version": "1.0.0-beta.1",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js",
+        "js/**/*.mjs",
+        "types/**/*.d.ts"
+    ],
+    "keywords": [
+        "Cards",
+        "Responsive",
+        "jQuery UI",
+        "jQueryUI",
+        "Datatables",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-cardview": "1.0.0-beta.1",
+        "datatables.net-jqui": "~2.2"
+    },
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "SEE LICENSE IN License.txt"
+}

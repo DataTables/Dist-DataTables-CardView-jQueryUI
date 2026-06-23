@@ -1,0 +1,18 @@
+{
+    "js": [
+        "js/cardView.jqueryui.js",
+        "js/cardView.jqueryui.min.js",
+        "js/cardView.jqueryui.min.mjs",
+        "js/cardView.jqueryui.mjs"
+    ],
+    "css": [
+        "css/cardView.jqueryui.css",
+        "css/cardView.jqueryui.min.css"
+    ],
+    "types": [
+        "types/cardView.jqueryui.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/CardView",
+    "last-tag": "null",
+    "last-sync": ""
+}
