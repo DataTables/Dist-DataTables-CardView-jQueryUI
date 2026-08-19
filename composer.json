@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-cardview-jqui",
-    "description": "CardView is an extension for DataTables which can change the display from the regular table that the end user sees, to a card based layout, with complete control over the card display through custom templates. It can also act as a method to have complex tables display gracefully on mobile devices, with full control over the responsive breakpoints and grid display. This is CardView for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
+    "description": "CardView for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
     "support": {
         "forum": "https://datatables.net/forums"
     },
@@ -12,7 +12,7 @@
         }
     ],
     "license": [
-        "SEE LICENSE IN License.txt"
+        "proprietary"
     ],
     "prefer-stable": true,
     "minimum-stability": "dev",
@@ -25,7 +25,7 @@
         "table"
     ],
     "require": {
-        "datatables.net/datatables.net-cardview": "1.0.0-beta.1",
-        "datatables.net/datatables.net-jqui": ">=2.3.8"
+        "datatables.net/datatables.net-cardview": "1.0.2",
+        "datatables.net/datatables.net-jqui": "^3"
     }
 }
