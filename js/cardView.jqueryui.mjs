@@ -1,4 +1,4 @@
-/*! CardView jQuery UI styling 1.1.0 for DataTables
+/*! CardView jQuery UI styling 1.1.1 for DataTables
  * Copyright (c) SpryMedia Ltd - https://datatables.net/license/plus
  */
 
