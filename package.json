@@ -35,9 +35,10 @@
     "exports": {
         ".": {
             "types": "./types/cardView.jqueryui.d.ts",
+            "style": "./css/cardView.jqueryui.css",
             "import": "./js/cardView.jqueryui.mjs",
-            "default": "./js/cardView.jqueryui.mjs",
-            "require": "./js/cardView.jqueryui.js"
+            "require": "./js/cardView.jqueryui.js",
+            "default": "./js/cardView.jqueryui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
